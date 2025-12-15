@@ -1,0 +1,47 @@
+📁 toupto-website/
+│
+├── 📁 app/                          # Next.js 14 App Router
+│   ├── (marketing)/                # Marketing pages route group
+│   ├── (products)/                 # Products route group  
+│   ├── (dashboard)/                # Authenticated area (future)
+│   ├── api/                        # API routes
+│   ├── globals.css
+│   ├── layout.tsx                  # Root layout
+│   ├── page.tsx                    # Homepage
+│   ├── sitemap.ts
+│   └── robots.ts
+│
+├── 📁 components/                   # Reusable components
+│   ├── ui/                         # Base UI components
+│   ├── layout/                     # Header, Footer, Nav
+│   ├── sections/                   # Page sections
+│   ├── products/                   # Product components
+│   ├── forms/                      # Form components
+│   ├── blog/                       # Blog components
+│   └── SEO/                        # SEO components
+│
+├── 📁 lib/                          # Utilities & helpers
+│   ├── utils.ts
+│   ├── api.ts
+│   ├── cms.ts                      # CMS integration layer
+│   ├── validation.ts
+│   └── constants.ts
+│
+├── 📁 hooks/                        # Custom React hooks
+├── 📁 types/                        # TypeScript types
+├── 📁 styles/                       # Additional CSS
+├── 📁 content/                      # Content files (MD, JSON)
+│   ├── blog/
+│   ├── products/
+│   └── translations/
+│
+├── 📁 public/                       # Static assets
+│   └── images/
+│       ├── hero/
+│       ├── products/
+│       ├── team/
+│       └── logos/
+│
+├── 📁 config/                       # Configuration files
+└── 📄 Root config files
+

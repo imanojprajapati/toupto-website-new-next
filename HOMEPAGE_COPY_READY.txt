@@ -1,0 +1,150 @@
+========================================
+HERO SECTION
+========================================
+
+HEADLINE:
+Comprehensive EAP Solutions for Modern Events
+
+SUBHEADING:
+Exhibition, Attendee, and Parking management systems that streamline operations and deliver exceptional experiences.
+
+BADGE/TAGLINE:
+Product-Led Technology Solutions
+
+PRIMARY CTA BUTTON:
+Explore Solutions
+
+SECONDARY CTA BUTTON:
+Get in Touch
+
+TRUST STATEMENT:
+Trusted by leading event organizers worldwide
+
+========================================
+EAP SOLUTIONS EXPLANATION
+========================================
+
+SECTION TITLE:
+What are EAP Solutions?
+
+SECTION SUBTITLE:
+Integrated systems for complete event management
+
+EXHIBITION MANAGEMENT CARD:
+Title: Exhibition Management
+Description: Comprehensive tools for floor planning, booth management, and exhibitor services. Streamline your exhibition operations from initial planning to post-event analysis.
+Key Features:
+• Floor plan management
+• Booth allocation and booking system
+• Exhibitor portal and dashboard
+• Analytics and reporting suite
+CTA: Learn more →
+
+ATTENDEE MANAGEMENT CARD:
+Title: Attendee Management
+Description: End-to-end attendee experience from registration to networking and feedback. Transform how attendees interact with your events with seamless processes.
+Key Features:
+• Online registration and ticketing
+• QR code check-in system
+• Networking and matchmaking
+• Mobile event app integration
+CTA: Learn more →
+
+PARKING MANAGEMENT CARD:
+Title: Parking Management
+Description: Intelligent parking solutions with real-time availability and automated guidance. Optimize space utilization and enhance visitor experience.
+Key Features:
+• Real-time space availability tracking
+• Automated parking guidance
+• Mobile payment integration
+• Revenue and occupancy analytics
+CTA: Learn more →
+
+========================================
+BENEFITS SECTION
+========================================
+
+SECTION TITLE:
+Why Choose Toupto Technologies?
+
+SECTION SUBTITLE:
+Experience the difference with product-led technology designed for success
+
+BENEFIT 1 - Streamlined Operations:
+Reduce manual work and eliminate errors with automated workflows and integrations.
+• Automated check-in processes
+• Real-time data synchronization
+• Centralized management dashboard
+
+BENEFIT 2 - Enhanced Attendee Experience:
+Deliver seamless experiences that keep attendees engaged and satisfied.
+• Mobile-first registration
+• Personalized event recommendations
+• Easy networking opportunities
+
+BENEFIT 3 - Data-Driven Insights:
+Make informed decisions with comprehensive analytics and reporting.
+• Real-time event metrics
+• Attendee behavior analytics
+• ROI and performance reports
+
+BENEFIT 4 - Scalable Infrastructure:
+Handle events of any size with cloud-based infrastructure that scales automatically.
+• Support for large-scale events
+• Unlimited capacity
+• Global accessibility
+
+========================================
+CALL-TO-ACTION SECTION
+========================================
+
+HEADLINE:
+Ready to Transform Your Event Management?
+
+SUBHEADING:
+Join leading organizations that trust Toupto Technologies for seamless events. Get started today and experience the difference.
+
+PRIMARY CTA:
+Schedule a Demo
+
+SECONDARY CTA:
+Explore Solutions
+
+TERTIARY CTA (Optional):
+Contact Sales
+
+========================================
+TRUST STATEMENTS
+========================================
+
+MAIN STATEMENT:
+Trusted by Industry Leaders
+
+SUPPORTING STATS:
+• 500+ Events Managed
+• 2M+ Attendees Served
+• 98% Satisfaction Rate
+• 24/7 Support Available
+
+SHORT TRUST STATEMENT:
+Join leading organizations that trust Toupto Technologies for seamless event management
+
+========================================
+ALTERNATIVE COPY VARIATIONS
+========================================
+
+ALTERNATIVE HERO HEADLINE:
+EAP Solutions: Exhibition, Attendee, and Parking Management
+
+ALTERNATIVE HERO SUBHEADING:
+Streamline your events with integrated management systems built for scale.
+
+ALTERNATIVE CTA BUTTONS:
+• Get Started
+• Request a Consultation
+• View Product Details
+• See How It Works
+
+ALTERNATIVE TRUST STATEMENT:
+Powering seamless events for organizations worldwide
+
