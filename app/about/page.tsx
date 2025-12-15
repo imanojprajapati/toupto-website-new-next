@@ -160,7 +160,7 @@ export default function AboutPage() {
                 To empower businesses with intelligent, scalable technology solutions that
                 streamline operations, enhance customer experiences, and drive measurable growth.
                 We commit to delivering exceptional value through innovation, quality, and
-                unwavering dedication to our clients' success.
+                unwavering dedication to our clients’ success.
               </p>
             </div>
           </div>
