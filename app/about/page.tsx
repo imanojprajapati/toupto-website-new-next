@@ -118,7 +118,7 @@ export default function AboutPage() {
                   confidence and clarity.
                 </p>
                 <p>
-                  What sets us apart is our commitment to understanding our clients' unique
+                  What sets us apart is our commitment to understanding our clients’ unique
                   challenges and delivering tailored solutions that not only meet immediate
                   needs but also scale with their growth. We believe in building partnerships,
                   not just providing services.
@@ -189,11 +189,11 @@ export default function AboutPage() {
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-700 leading-relaxed mb-4">
                 Toupto Technologies was founded with a vision to bridge the gap between complex
-                technology and practical business solutions. Over the years, we've evolved from
+                technology and practical business solutions. Over the years, we’ve evolved from
                 a startup to a trusted technology partner for organizations across industries.
               </p>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Our journey has been marked by continuous learning, adaptation, and growth. We've
+                Our journey has been marked by continuous learning, adaptation, and growth. We’ve
                 helped hundreds of businesses transform their operations, from small organizations
                 taking their first digital steps to large enterprises optimizing complex systems.
                 Each project has contributed to our expertise and refined our approach to delivering
@@ -244,7 +244,7 @@ export default function AboutPage() {
                 <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6">
                   <h3 className="text-xl font-semibold mb-3">Scalable Architecture</h3>
                   <p className="text-white/90">
-                    We build for today's needs while designing for tomorrow's growth, ensuring
+                    We build for today’s needs while designing for tomorrow’s growth, ensuring
                     solutions scale seamlessly with business expansion.
                   </p>
                 </div>

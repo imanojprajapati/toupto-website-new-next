@@ -194,7 +194,7 @@ export default function ContactForm({ initialProduct = "", initialSubject = "gen
 
       {submitStatus === "success" && (
         <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-lg">
-          Thank you for your inquiry! We'll get back to you within 24 hours.
+          Thank you for your inquiry! We’ll get back to you within 24 hours.
         </div>
       )}
 

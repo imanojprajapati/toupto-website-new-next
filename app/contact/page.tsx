@@ -45,8 +45,8 @@ export default function ContactPage() {
             Get in Touch
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Have questions about our EAP Solutions? We're here to help. Reach out to us
-            and let's discuss how we can transform your event management.
+            Have questions about our EAP Solutions? We’re here to help. Reach out to us
+            and let’s discuss how we can transform your event management.
           </p>
         </div>
 
@@ -66,8 +66,8 @@ export default function ContactPage() {
             <div className="bg-gradient-to-br from-primary-500 to-secondary-500 rounded-2xl p-8 text-white mb-8">
               <h2 className="text-2xl font-bold mb-6">Contact Information</h2>
               <p className="mb-8 text-primary-50">
-                Whether you're looking for product information, technical support, or
-                partnership opportunities, we're ready to assist you.
+                Whether you’re looking for product information, technical support, or
+                partnership opportunities, we’re ready to assist you.
               </p>
             </div>
 

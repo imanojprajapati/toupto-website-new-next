@@ -132,7 +132,7 @@ export default function CaseStudiesPage() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Discover how organizations across industries have transformed their event management
-            with Toupto Technologies' EAP Solutions
+            with Toupto Technologies’ EAP Solutions
           </p>
         </div>
 
