@@ -181,7 +181,7 @@ export default function ProductDetail({
                   <div className="p-6">
                     {study.quote && (
                       <p className="text-gray-700 italic mb-4">
-                        &ldquo;{study.quote}&rdquo;
+                        “{study.quote}”
                       </p>
                     )}
                     <div className="pt-4 border-t border-gray-200">

@@ -37,7 +37,7 @@ export default function Testimonials() {
             What Our Clients Say
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Don&apos;t just take our word for it. Here&apos;s what event organizers are saying.
+            Don’t just take our word for it. Here’s what event organizers are saying.
           </p>
         </div>
 
@@ -62,7 +62,7 @@ export default function Testimonials() {
                 ))}
               </div>
               <p className="text-gray-700 mb-6 italic relative z-10">
-                &ldquo;{testimonial.content}&rdquo;
+                “{testimonial.content}”
               </p>
               <div className="flex items-center pt-4 border-t border-gray-200 relative z-10">
                 <div className="relative w-12 h-12 rounded-full overflow-hidden mr-4 flex-shrink-0">

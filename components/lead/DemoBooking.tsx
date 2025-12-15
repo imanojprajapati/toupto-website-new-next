@@ -112,7 +112,7 @@ export default function DemoBooking({ variant = "button", product = "" }: DemoBo
                         Demo Scheduled Successfully!
                       </h4>
                       <p className="text-gray-600">
-                        We&apos;ll send you a confirmation email with the meeting details.
+                        We’ll send you a confirmation email with the meeting details.
                       </p>
                     </div>
                   ) : (
