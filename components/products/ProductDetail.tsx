@@ -180,7 +180,9 @@ export default function ProductDetail({
                   </div>
                   <div className="p-6">
                     {study.quote && (
-                      <p className="text-gray-700 italic mb-4">"{study.quote}"</p>
+                      <p className="text-gray-700 italic mb-4">
+                        &ldquo;{study.quote}&rdquo;
+                      </p>
                     )}
                     <div className="pt-4 border-t border-gray-200">
                       <p className="text-primary-600 font-semibold">{study.result}</p>

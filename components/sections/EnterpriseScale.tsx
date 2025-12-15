@@ -159,7 +159,7 @@ export default function EnterpriseScale() {
         {/* Call to Action */}
         <div className="mt-12 text-center">
           <p className="text-lg text-gray-600 mb-6">
-            Need to manage an event at massive scale? Let's discuss your requirements.
+            Need to manage an event at massive scale? Let&apos;s discuss your requirements.
           </p>
           <a
             href="/contact"
