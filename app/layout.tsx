@@ -9,6 +9,7 @@ import WhatsAppButton from "@/components/lead/WhatsAppButton";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://toupto.com"),
   title: {
     default: "Toupto Tech - EAP Solutions for Events",
     template: "%s | Toupto Technologies",
